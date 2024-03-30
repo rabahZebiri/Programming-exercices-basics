@@ -1,2 +1,2 @@
 # Programming-exercices-basics
-These exercices are popular exercises that we use to see at the university exercises and also in the interviews.
+These exercises were once common in university exercices and interviews.
