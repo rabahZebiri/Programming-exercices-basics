@@ -1,0 +1,41 @@
+/*-------------------boolean values exercices----------------------------*/
+
+1. --True or False:--  Write down statements and determine their truth value (True or False).  
+    * Ex: The sky is blue. (True)
+    * 5 is greater than 10. (False)
+    *  0 divided by itself equals 0. (True)
+
+2. --Boolean Operators:--  Practice using the basic boolean operators (AND, OR, NOT) to combine statements and evaluate the resulting truth value. 
+     *  Ex: Is it sunny (True) AND are you wearing a jacket (False)? (False)
+     *  Is it raining (False) OR do you have an umbrella (True)? (True)
+     *  It is NOT raining (True). 
+
+3. --Comparison Operators:--  Write code snippets (choose your preferred language) to compare values and get boolean results. 
+     *  Ex:  Check if a number is greater than 10. (x > 10)
+     *  Verify if two strings are equal. ("apple" == "apple")
+
+
+4. --Truth Tables:--  Create truth tables for different combinations of boolean operators (AND, OR, NOT)  
+    *  This will solidify how each operator affects the final truth value.
+
+5. --Conditional Statements:--  Write code using conditional statements (if/else) that rely on boolean expressions. 
+     *  Ex: If a user enters a password correctly, grant them access. 
+     *  If a product is out of stock, display an "Out of Stock" message.
+
+6. --Validating Input:--  Write code to validate user input using boolean expressions. 
+     *  Ex: Ensure a user enters a valid age (between 18 and 65).
+     *  Check if an email address follows a specific format (contains "@" and ".") 
+
+
+7. --Boolean Simplification:--  Simplify complex boolean expressions using logic laws (De Morgan's Laws, Distributive Property). 
+     *  This will improve your understanding of how boolean expressions work behind the scenes.
+
+8. --Bitwise Operators:--  Explore bitwise operators (AND, OR, XOR)  that work on individual bits within a number. 
+     *  Be aware that this might be more advanced depending on the programming language.
+
+9. --Boolean Expressions in Algorithms:--  Analyze existing code and identify how boolean expressions are used within algorithms (sorting, searching). 
+     *  This will help you see how boolean values play a role in solving problems.
+
+10. --Challenge Projects:--  Build small projects that rely heavily on boolean logic. 
+     *  Ex: Create a quiz program that checks user answers and provides feedback.
+     *  Develop a tic-tac-toe game where the computer uses boolean expressions to determine its moves.
