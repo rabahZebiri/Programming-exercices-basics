@@ -1,0 +1,41 @@
+/*--------------------------The contrl flow exercices------------------------------------*/
+
+1.  Simple If/Else: 
+Write code to check if a number is even or odd. Use an if/else statement to display appropriate messages.
+2.  Nested If/Else:
+Simulate a simple vending machine. Ask the user for money and choice of drink (A, B, C). Use nested if/else statements to dispense the drink or display an "Insufficient Funds" message.
+3.  Ternary Operator (if applicable): 
+Explore the ternary operator (condensation of if/else) in your language. Write code examples comparing its usage to regular if/else statements.
+4.  While Loop:
+Write a program that uses a while loop to print numbers from 1 to 10.
+5.  For Loop: 
+Write a program that uses a for loop to iterate through a list of names and greet each person.
+6.  If/Else with Comparisons: 
+Write code to check if a student's grade falls within a specific range (A, B, C, D, F) and display the corresponding letter grade.
+7.  Break Statement in Loops:
+Write a program that iterates through a list of numbers. Use a break statement within the loop to exit when a specific number is found.
+8.  Continue Statement in Loops (if applicable)   Explore the continue statement (skips current iteration) in your language. Write code examples demonstrating its usage within loops. 
+9.  Switch/Case Statement: 
+Write a program that uses a switch/case statement to handle different user menu options (1 - Add, 2 - Subtract, etc.) and perform the corresponding calculations.
+10.  Nested Loops: 
+Write a program that uses nested loops to create a multiplication table (e.g., rows represent numbers to multiply, columns represent the multiplier).
+11.  Flag Variables :
+Write code to simulate a guessing game. Use a flag variable to track whether the user guessed the correct number. The loop continues until the guess is correct, and then displays a congratulatory message.
+12.  Infinite Loops (with caution) :
+Write a program that demonstrates an infinite loop (usually for intentional, ongoing processes).   Make sure to include a way to break out of the loop  (e.g., using a user input to quit).
+13.  Looping with User Input:
+Write a program that asks the user for a number and then uses a loop to print that number of stars (*).
+14.  Recursion (if applicable):
+Explore recursion (a function calling itself) in your language. Write a basic example (e.g., factorial calculation) to understand the concept.   Be cautious of infinite recursion! 
+15.  Error Handling with Control Flow: 
+Write code that takes user input for age. Use control flow statements (if/else) to check if the age is valid (above 18) and display an error message if not.
+16.  FizzBuzz: 
+Write a program that iterates from 1 to 100. For multiples of 3, print "Fizz," for multiples of 5, print "Buzz," and for multiples of both, print "FizzBuzz."
+17.  Prime Number Checker: 
+Write a program that takes a number as input and uses a loop to determine if it's a prime number (divisible only by 1 and itself).
+18.  Password Validation: 
+Write a program that prompts the user for a password. Use control flow to enforce password complexity rules (minimum length, uppercase/lowercase letters, etc.).
+19.  Simple Calculator:  
+Develop a basic calculator program using control flow statements (if/else) to handle different arithmetic operations (addition, subtraction, multiplication, division) based on user input.
+20.  Guessing Game with Levels:  
+Create a guessing game with multiple difficulty levels. Use nested loops and control flow to adjust the number of guesses allowed based on the chosen level.
