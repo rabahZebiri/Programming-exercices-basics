@@ -1,2 +1,2 @@
 # Programming-exercices-basics
-These exercises were once common in university exercices and interviews.
+These exercises are common in university exercises and interviews.
