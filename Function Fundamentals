@@ -1,0 +1,49 @@
+1-Write a function that takes two numbers as arguments and returns their sum.
+
+2-Write a function that calculates the factorial of a given number using recursion.
+
+3-Implement a function that returns the nth Fibonacci number using iteration.
+
+4-Write a function to check if a given string is a palindrome.
+
+5-Implement a function to determine if a given number is a prime.
+
+6-Write a function that calculates the sum of digits of a given integer.
+
+7-Write a higher-order function that takes a function and a list, and applies the function to each item in the list.
+
+8-Implement a function with memoization to compute the nth Fibonacci number efficiently.
+
+9-Create a function that composes two functions and returns their composition.
+
+10-Write a decorator that prints the execution time of a function.
+
+11-Write a function that returns True if all characters in a string are unique, and False otherwise.
+
+12-Write a function to check if two strings are anagrams of each other.
+
+13-Write a function to find the maximum value in a list of integers.
+
+14. Implement a function that counts the occurrences of each character in a string and returns a dictionary.
+15. Write a function that removes duplicates from a list while preserving the order of elements.
+
+16. Create a function that takes a list of integers and returns a new list with only the even numbers.
+
+17. Write a function that reverses a string without using built-in methods.
+
+18. Implement a function that calculates the greatest common divisor (GCD) of two numbers using the Euclidean algorithm.
+
+19. Write a function that generates a list of prime numbers up to a given limit.
+
+20. ccreate a function that merges two sorted lists into a single sorted list.
+
+21. Write a function that determines if a given year is a leap year.
+
+22. Implement a function that finds the longest word in a sentence.
+23. Write a function that calculates the nth triangular number (the sum of the first n natural numbers).
+
+24. Create a function that converts a string to title case (where the first letter of each word is capitalized).
+
+25. Implement a function that checks if a number is a perfect number (a number that is equal to the sum of its proper divisors).
+
+26. Write a function that generates the multiplication table for a given number up to a specified limit.
