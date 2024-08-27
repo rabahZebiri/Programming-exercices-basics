@@ -1,0 +1,43 @@
+1. Factorial Calculation: Write a recursive function to compute the factorial of a non-negative integer.
+
+2. Fibonacci Sequence: Implement a recursive function to find the nth number in the Fibonacci sequence.
+
+3. Sum of Array: Write a recursive function to find the sum of all elements in an array.
+
+4. Reverse String: Implement a recursive function to reverse a given string.
+
+5. Binary Search: Write a recursive function to perform binary search on a sorted array.
+
+6. GCD Calculation: Implement a recursive function to compute the greatest common divisor (GCD) of two numbers using the Euclidean algorithm.
+
+7. Power of a Number: Write a recursive function to calculate the power of a number (base^exponent).
+
+8. Permutations of a String: Implement a recursive function to generate all permutations of a given string.
+
+9. Generate Subsets: Write a recursive function to generate all subsets of a given set.
+
+10. Tower of Hanoi: Implement the recursive solution for the Tower of Hanoi problem.
+
+11. Merge Sort: Write a recursive function to perform merge sort on an array.
+
+12. Quick Sort: Implement a recursive function to perform quick sort on an array.
+
+13. Binary Tree Traversal (Inorder): Write a recursive function to perform an inorder traversal of a binary tree.
+
+14. Binary Tree Traversal (Preorder): Implement a recursive function to perform a preorder traversal of a binary tree.
+
+15. Binary Tree Traversal (Postorder): Write a recursive function to perform a postorder traversal of a binary tree.
+
+16. Count of Digits: Implement a recursive function to count the number of digits in a non-negative integer.
+
+17. Sum of Digits: Write a recursive function to calculate the sum of digits in a non-negative integer.
+
+18. Depth of Binary Tree: Implement a recursive function to find the depth (height) of a binary tree.
+
+19. Nth Triangular Number: Write a recursive function to compute the nth triangular number.
+
+20. Flatten Nested List: Implement a recursive function to flatten a nested list structure into a single list.
+
+21. Decode String: Write a recursive function to decode a string encoded in a specific format (e.g., "3[a]2[bc]" becomes "aaabcbc").
+
+22. Longest Common Subsequence: Implement a recursive function to find the length of the longest common subsequence between two strings.
